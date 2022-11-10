@@ -42,3 +42,4 @@ Data extraction from the provided datesets allows us to create four new tables t
  
 ## Summary
 Due to the fact that more than half of the company will retire soon, there are a lot of vacant positions to be filled within the next upcoming years. However, there are a good amount of employees that are potential candidates for the mentorship eligibility program that hold senior positions whom are very capable of leading the next generation of workers to follow. With more workers retiring each year, there must be a significant efforts to restore enough empty slots to keep the company producing at it's highest potential.
+
